@@ -1,7 +1,7 @@
 
 # Network-Related Articles
 
-## References Links
+## References Links `#f03c15`
 * [Syllabus](https://bookdown.org/markhoff/social_network_analysis/), Methods for Network Analysis, Mark Hoffman, Fall 2021
 ### Journals
 * Social Networks

@@ -36,6 +36,11 @@
 * [Missing Network Data A Comparison of Different Imputation Methods](https://ieeexplore.ieee.org/document/8508716)
 * Gueorgi Kossinets (2006) [Effects of missing data in social networks](https://doi.org/10.1016/j.socnet.2005.07.002), Social Networks
 
+### Survey Data
+* Burt, Ronald S. “Network Items and the General Social Survey.” Social Networks, vol. 6, no. 4, 1984, pp. 293–339., doi:10.1016/0378-8733(84)90007-8. 
+* Fischer, Claude S. 2009. “Comment: The 2004 GSS Finding of Shrunken Social Networks: An Artifact? ” American Sociological Review 74:657-669.
+* McPherson, Miller, Lynn Smith-Lovin, and Matthew E. Brashears. 2009. “Reply: Models and Marginals: Using Survey Evidence to Study Social Networks.” American Sociological Review 74:670-681.
+
 ### AA 
 * Abbott, Andrew and E. Barman. 1997. “Sequence Comparison via Alignment and Gibbs Sampling.” Sociological Methodology 27:47-87.
 
@@ -192,30 +197,34 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 *  Shi, Feng, et al. “Weaving the Fabric of Science: Dynamic Network Models of Science's Unfolding Structure.” Social Networks, vol. 43, 2015, pp. 73–85., doi:10.1016/j.socnet.2015.02.006. 
 *  Feng, Shi, and James Evans. “Science and Technology Advance through Surprise.” ArXiv: Digital Libraries (Cs.DL), arXiv:1910.09370. 
 
-## Unclassified
-* Beckfield, Jason. 2010. “The Social Structure of the World Polity” American Journal of Sociology. 115:1018-1068.
-* Breiger, R. L. 1974. “The Duality of Persons and Groups.” Social Forces 53:181- 90.
-* Moody, James. 2004. “The Structure of a Social Science Collaboration Network” American Sociological Review 69:213-264.
-* Blau, Peter M. and Joseph E. Schwartz. 1997. Crosscutting Social Circles: Testing A Macrostructural Theory of Intergroup Relations. New Brunswick, N.J: Transaction.
-* Fischer, Claude S. 2009. “Comment: The 2004 GSS Finding of Shrunken Social Networks: An Artifact? (Links to an external site.).” American Sociological Review 74:657-669.
-* McPherson, Miller, Lynn Smith-Lovin, and Matthew E. Brashears. 2009. “Reply: Models and Marginals: Using Survey Evidence to Study Social Networks.” American Sociological Review 74:670-681.
-* Lee, Byungkyu, and Peter Bearman. 2017. “Important Matters in Political Context.” Sociological Science 4: 1–30.
-* Frank, Kenneth, et. al “The Social Dynamics of Mathematics Course taking in High School” American Journal of Sociology.
-* McFarland, D. A., & Thomas, R. J. (2006). Bowling young: How youth voluntary associations influence adult political participation. American sociological review, 71(3), 401-425.
-* Chu, Johan SG, and Gerald F. Davis. “Who killed the inner circle? The decline of the American corporate interlock network.” American Journal of Sociology3 (2016): 714-754.
-* Zachary, Wayne W. “An Information Flow Model for Conflict and Fission in Small Groups.” Journal of Anthropological Research, vol. 33, no. 4, 1977, pp. 452–473., doi:10.1086/jar.33.4.3629752. 
+### Agent-Based Modeling
+
+
+
+### Big Data Applications
 * Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, and Zhong Su. ArnetMiner: Extraction and Mining of Academic Social Networks. In Proceedings of the Fourteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD'2008). pp.990-998. 
-* Knoke, David, and Edward Laumann. “The Social Organization of National Policy Domains: An Exploration of Some Structural Hypotheses.” Social Structure and Network Analysis, 1982, pp. 255–270. 
-* L Freeman, Linton C., and Cynthia M. Webster. “Interpersonal Proximity in Social and Cognitive Space.” Social Cognition, vol. 12, no. 3, 1994, pp. 223–247., doi:10.1521/soco.1994.12.3.223. 
-* Burt, Ronald S. “Network Items and the General Social Survey.” Social Networks, vol. 6, no. 4, 1984, pp. 293–339., doi:10.1016/0378-8733(84)90007-8. 
-* Koduri, Nihal, and Andrew W. Lo. “The Origin of Cooperation.” Proceedings of the National Academy of Sciences, vol. 118, no. 26, 2021, doi:10.1073/pnas.2015572118. 
-* Vadisala, Jyothi, and Valli Kumari Vatsavayi. “Challenges in Social Network Data Privacy .” International Journal of Computational Intelligence Research, ISSN 0973-1873 13, no. 5, 2017, pp. 965–979.  
 * Jia, Jayson S., et al. “Triadic Embeddedness Structure in Family Networks Predicts Mobile Communication Response to a Sudden Natural Disaster.” Nature Communications, vol. 12, no. 1, 2021, doi:10.1038/s41467-021-24606-7. 
 * Tan, Suo-yi, et al. “Mobility in China, 2020: A Tale of Four Phases.” National Science Review, 2021, doi:10.1093/nsr/nwab148. 
 * Chang, Serina, et al. “Mobility Network Models of COVID-19 Explain Inequities and Inform Reopening.” Nature, vol. 589, no. 7840, 2020, pp. 82–87., doi:10.1038/s41586-020-2923-3. 
 * Han, Xiaoyi, et al. “Quantifying Covid-19 Importation Risk in a Dynamic Network of Domestic Cities and International Countries.” Proceedings of the National Academy of Sciences, vol. 118, no. 31, 2021, doi:10.1073/pnas.2100201118. 
 * Musciotto, Federico, et al. “High-Frequency Trading and Networked Markets.” Proceedings of the National Academy of Sciences, vol. 118, no. 26, 2021, doi:10.1073/pnas.2015573118. 
 * Tang, Qian-Yuan, and Kunihiko Kaneko. “Dynamics-Evolution Correspondence in Protein Structures.” Physical Review Letters, vol. 127, no. 9, 26 Aug. 2021, doi.org/10.1103/PhysRevLett.127.098103. 
+
+## Unclassified
+* Beckfield, Jason. 2010. “The Social Structure of the World Polity” American Journal of Sociology. 115:1018-1068.
+* Breiger, R. L. 1974. “The Duality of Persons and Groups.” Social Forces 53:181- 90.
+* Sewell, William Jr. (1992.) A Theory of Structure: Duality, Agency, and Transformation. American Journal of Sociology 98, 1:1-29.
+* Moody, James. 2004. “The Structure of a Social Science Collaboration Network” American Sociological Review 69:213-264.
+* Blau, Peter M. and Joseph E. Schwartz. 1997. Crosscutting Social Circles: Testing A Macrostructural Theory of Intergroup Relations. New Brunswick, N.J: Transaction.
+* Lee, Byungkyu, and Peter Bearman. 2017. “Important Matters in Political Context.” Sociological Science 4: 1–30.
+* Frank, Kenneth, et. al “The Social Dynamics of Mathematics Course taking in High School” American Journal of Sociology.
+* McFarland, D. A., & Thomas, R. J. (2006). Bowling young: How youth voluntary associations influence adult political participation. American sociological review, 71(3), 401-425.
+* Chu, Johan SG, and Gerald F. Davis. “Who killed the inner circle? The decline of the American corporate interlock network.” American Journal of Sociology3 (2016): 714-754.
+* Zachary, Wayne W. “An Information Flow Model for Conflict and Fission in Small Groups.” Journal of Anthropological Research, vol. 33, no. 4, 1977, pp. 452–473., doi:10.1086/jar.33.4.3629752. 
+* Knoke, David, and Edward Laumann. “The Social Organization of National Policy Domains: An Exploration of Some Structural Hypotheses.” Social Structure and Network Analysis, 1982, pp. 255–270. 
+* L Freeman, Linton C., and Cynthia M. Webster. “Interpersonal Proximity in Social and Cognitive Space.” Social Cognition, vol. 12, no. 3, 1994, pp. 223–247., doi:10.1521/soco.1994.12.3.223. 
+* Koduri, Nihal, and Andrew W. Lo. “The Origin of Cooperation.” Proceedings of the National Academy of Sciences, vol. 118, no. 26, 2021, doi:10.1073/pnas.2015572118. 
+* Vadisala, Jyothi, and Valli Kumari Vatsavayi. “Challenges in Social Network Data Privacy .” International Journal of Computational Intelligence Research, ISSN 0973-1873 13, no. 5, 2017, pp. 965–979.  
 * Van Der Gaag, M., & Snijders, T. A. B.  The resource generator: Social capital quantification with concrete items. Social Networks, 27(1), 2005, 1–29. https://doi.org/10.1016/j.socnet.2004.10.001 
 * Davis, Allison, et al. Deep South: A Social Anthropological Study of Caste and Class. University of Chicago Press, 1941. 
 * Barabasi, Albert-Laszlo. “Section 4.” Network Science: The Scale-Free Property, 2014. accessed from https://barabasi.com/f/623.pdf 
@@ -226,4 +235,7 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 * Lizardo, O. (2006). How cultural tastes shape personal networks. American sociological review, 71(5), 778-807.
 * De Vaan, M., Stark, D., & Vedres, B. (2015). Game changer: The topology of creativity. American Journal of Sociology, 120(4), 1144-1194.
 * Martin, J. L. (2000). What do animals do all day?: The division of labor, class bodies, and totemic thinking in the popular imagination. Poetics, 27(2-3), 195-231.
-* Sewell, William Jr. (1992.) A Theory of Structure: Duality, Agency, and Transformation. American Journal of Sociology 98, 1:1-29.
+
+## To Add
+* Organization Science articles
+* System Dynamics & ABM

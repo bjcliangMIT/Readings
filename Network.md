@@ -10,14 +10,20 @@
 * American Sociological Review
 * Science
 * Nature
+* Organization Science
 * [ASONAM](https://ieeexplore.ieee.org/xpl/conhome/9381192/proceeding?pageNumber=6)
+
+### Books
+* Song Yang, Franziska B Keller, Lu Zheng, Social Network Analysis: Methods and Examples
+* Social Network Analysis for Startups, edited by Alexander Kouznetsov, O’Reilly Media, 2011
 
 ## Overviews
 * Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). Network analysis in the social sciences. science, 323(5916), 892-895.
 * Hinde, R.A. (1976.) Interactions, Relationships and Social Structure. Man 11, 1: 1-17.
 * Lazer, David. “Networks in Political Science: Back to the Future.” PS: Political Science & Politics, vol. 44, no. 01, 2011, pp. 61–68., doi:10.1017/s1049096510001873. 
+* Ward, Michael D., et al. “Network Analysis and Political Science.” Annual Review of Political Science, vol. 14, no. 1, 2011, pp. 245–264., doi:10.1146/annurev.polisci.12.040907.115949. 
 
-## Population, Sampling, and Biases
+## <span style="color:red">Population, Sampling, and Biases text</span>.
 ### Snowball Sampling
 * Colement 1958 Snowball Sampling
 * Salganik, Matthew. and Douglas Heckathorn (2004). Sampling and estimation in hidden populations using respondent-driven sampling. Sociological Methodology 34, 193–239.
@@ -36,6 +42,7 @@
 ### Triads and Balance
 Embedding, hierarchy, cohesion
 * Simmel, George. 1950. “The Triad” in Kurt Wolf (ed.), The Sociology of Georg Simmel, Free Press, 145‐169.
+* Nooteboom, Bart. "Simmel's Treatise on the Triad (1908)." Journal of Institutional Economics 2.3, 2006: 365–383. https://doi.org/10.1017/s1744137406000452 
 * Gould, Roger. 2002. “The Origins of Status Hierarchies.” American Journal of Sociology 107: 1143:1178.
 * Cartwright, D., & Harary, F. (1956). Structural balance: a generalization of Heider’s theory. Psychological review, 63(5), 277.
 * Chase, I. D. (1982). Dynamics of Hierarchy Formation: the Sequential Development of Dominance Relationships. Behaviour 80(3-4), 218–239.
@@ -93,11 +100,27 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 * McPherson, Miller, Lynn Smith-Lovin, and Matthew E. Brashears. 2006. “Social isolation in America: Changes in Core Discussion Networks over Two Decades (Links to an external site.).” American Sociological Review 71:353-375.
 * Anthony, Kenneth Sanchagrin 2013. “Social Isolation in America: An Artifact” American Sociological Review 2013 78:339-360
 * Adamic, Lada A., and Natalie Glance. “The Political Blogosphere and the 2004 U.S. Election.” Proceedings of the 3rd International Workshop on Link Discovery - LinkKDD '05, 2005, doi:10.1145/1134271.1134277. 
+* Waugh, Andrew, et al. “Party Polarization in Congress: A Network Science Approach.” ArXiv: Physics and Society, 25 July 2011. https://arxiv.org/abs/0907.3509 
+
+#### Community Detection
+* Yang, Zhao, et al. “A Comparative Analysis of Community Detection Algorithms on Artificial Networks.” Scientific Reports, vol. 6, no. 1, 2016, doi:10.1038/srep30750. 
+* Newman M E J. Fast algorithm for detecting community structure in networks[J]. Physical review E. 2004, 69 (6): 066133
+* Clouset, Aaron, Newman, M.E.J., Moore, Cristopher, “Finding community structure in very large networks.” ArXiv: Physics and Societ, 30 Aug 2004. https://arxiv.org/abs/cond-mat/0408187 
+* J. Yang and J. Leskovec. Defining and Evaluating Network Communities based on Ground-truth. ICDM, 2012.
+* Blondel, V.D., Guillaume, J.-L., Lambiotte, R., Lefebvre, E.,“Fast Unfolding of Communities in Large Networks.” ArXiv: J Stat Mech P10008, 2008
+* Fortunato, Santo, and Claudio Castellano. “Community Structure in Graphs.” Encyclopedia of Complexity and Systems Science, 2009, pp. 1141–1163., doi:10.1007/978-0-387-30440-3_76. 
+* BPons, Pascal, and Matthieu Latapy. “Computing Communities in Large Networks Using Random Walks.” Journal of Graph Algorithms and Applications, vol. 10, no. 2, 2006, pp. 191–218., doi:10.7155/jgaa.00124.alabala
+* Xiaojin Zhu, Zoubin Ghahramani. “Learning from Labeled and Unlabeled Data with Label Propagation.” CMU CALD tech report CMU-CALD-02-107, 2002
+* Cordasco, Gennaro, and Luisa Gargano. “Community Detection via Semi-Synchronous Label Propagation Algorithms.” 2010 IEEE International Workshop on: Business Applications of Social Network Analysis (BASNA), 2010, doi:10.1109/basna.2010.5730298.
+* Bitten, Harry. “Detecting Communities in a Language Co-Occurrence Network.” Medium, Towards Data Science, 4 July 2019, towardsdatascience.com/detecting-communities-in-a-language-co-occurrence-network-f6d9dfc70bab.
+* Gergely Palla, Imre Derényi, Illés Farkas1, and Tamás Vicsek, Uncovering the overlapping community structure of complex networks in nature and society, Nature 435, 814-818, 2005, doi:10.1038/nature03607
 
 ### Categories and Positions
 * Nadel, A Theory of Social Structure Chapter 4.
 * White, H., S. Boorman, and R. Breiger. 1976. “Social Structure from multiple networks. I. Blockmodels of roles and positions.” American Journal of Sociology 81:730-779.
-* Padgett, J. F. and C. K. Ansell. 1993. “Robust Action and the Rise of the Medici, 1400-1434.” American Journal of Sociology 98:1259-319.
+* Padgett, John F., and Paul D. McLean. “Organizational Invention and Elite Transformation: The Birth of Partnership Systems in Renaissance Florence.” American Journal of Sociology, vol. 111, no. 5, 2006, pp. 1463–1568., doi:10.1086/498470. 
+* Padgett, John F., and Christopher K. Ansell. “Robust Action and the Rise of the Medici, 1400-1434.” American Journal of Sociology, vol. 98, no. 6, 1993, pp. 1259–1319., doi:10.1086/230190. 
+* Padgett, John Frederick, and Walter W. Powell. The Emergence of Organizations and Markets. Princeton University Press, 2012. 
 * Bearman, P. 1997. “Generalized Exchange.” American Journal of Sociology 102:1383-1415.
 * Grover, A., & Leskovec, J. 2016. “node2vec: Scalable feature learning for networks.” InProceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining. 855-864.
 * Munson, J. and M. Macri (2009). Sociopolitical network interactions: A case study of the Classic Maya. Journal of Anthropological Archaeology 28(4), 424–438.
@@ -106,27 +129,16 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 * Hillman, Henning. 2007. “Mediation in Multiple Networks: Elite Mobilization before the English Civil War” American Sociological Review.
 * Faust, Katherine. 1988. “Comparison of Methods for Positional Analysis: Structural and General Equivalences.” Social Networks 10: 313-341.
 
-### Networks from Culture and Culture from Networks
-* De Saussure, F. (1959). [Course in general linguistics](https://monoskop.org/images/0/0b/Saussure_Ferdinand_de_Course_in_General_Linguistics_1959.pdf). Columbia University Press. Pages 1-37. 
-* Lee, Monica, & Martin, J. L. 2018. “Doorway to the Dharma of Duality.” Poetics, 68, 18-30.
-* Mohr, John W. 1998. “Measuring Meaning Structures.” Annual Review of Sociology 24: 345-370.
-* Latour, B. (1992). 10 ‘‘Where Are the Missing Masses? The Sociology of a Few Mundane Artifacts’’.
-Hoffman, M. A. (2019). The Materiality of Ideology: Cultural Consumption and Political Thought after the American Revolution. American Journal of Sociology, 125(1), 1-62.
-* Goldberg, Amir. 2011. “Mapping shared understandings using relational class analysis: The case of the cultural omnivore reexamined.”American Journal of Sociology 5: 1397-1436.
-* Schultz, J., & Breiger, R. L. (2010). The strength of weak culture. Poetics, 38(6), 610-624.
-Mische, Ann, and Philippa Pattison. 2000. “Composing a civic arena: Publics, projects, and social settings.” Poetics2-3: 163-194.
-DiMaggio, Paul, et al. 2018. “Culture out of attitudes: Relationality, population heterogeneity and attitudes toward science and religion in the US.”Poetics 68 (2018): 31-51.
-* Lizardo, O. (2006). How cultural tastes shape personal networks. American sociological review, 71(5), 778-807.
-Boutyline, Andrei, and Stephen Vaisey. “Belief network analysis: A relational approach to understanding the structure of attitudes.”American Journal of Sociology 5 (2017): 1371-1447.
-* Baldassarri, D., & Goldberg, A. (2014). Neither ideologues nor agnostics: Alternative voters’ belief system in an age of partisan politics. American Journal of Sociology, 120(1), 45-95.
-* De Vaan, M., Stark, D., & Vedres, B. (2015). Game changer: The topology of creativity. American Journal of Sociology, 120(4), 1144-1194.
+### <span style="color:red">Linguistics, beliefs, and Meanings</span>.
 * Hoffman, M. A., Cointet, J. P., Brandt, P., Key, N., & Bearman, P. (2018). The (Protestant) Bible, the (printed) sermon, and the word (s): The semantic structure of the Conformist and Dissenting Bible, 1660–1780. Poetics, 68, 89-103.
-* Roth, C., & Cointet, J. P. (2010). Social and semantic coevolution in knowledge networks. Social Networks, 32(1), 16-29.
 * Rule, A., Cointet, J. P., & Bearman, P. S. (2015). Lexical shifts, substantive changes, and continuity in State of the Union discourse, 1790–2014. Proceedings of the National Academy of Sciences, 112(35), 10837-10844.
-* Martin, J. L. (2000). What do animals do all day?: The division of labor, class bodies, and totemic thinking in the popular imagination. Poetics, 27(2-3), 195-231.
-* Erikson, E. (2013). Formalist and relationalist theory in social network analysis. Sociological Theory, 31(3), 219-242.
+* Boutyline, Andrei, and Stephen Vaisey. “Belief network analysis: A relational approach to understanding the structure of attitudes.”American Journal of Sociology 5 (2017): 1371-1447.
+* Baldassarri, D., & Goldberg, A. (2014). Neither ideologues nor agnostics: Alternative voters’ belief system in an age of partisan politics. American Journal of Sociology, 120(1), 45-95.
+* Hoffman, M. A. (2019). The Materiality of Ideology: Cultural Consumption and Political Thought after the American Revolution. American Journal of Sociology, 125(1), 1-62.
+* DiMaggio, Paul, et al. 2018. “Culture out of attitudes: Relationality, population heterogeneity and attitudes toward science and religion in the US.”Poetics 68 (2018): 31-51.
+* Roth, C., & Cointet, J. P. (2010). Social and semantic coevolution in knowledge networks. Social Networks, 32(1), 16-29.
 * Martin, J. L. (2002).“Power, Authority, and the Constraint of Belief Systems.” American Journal of Sociology 107: 861-904.
-* Bail, C. A. (2016). Combining natural language processing and network analysis to examine how advocacy organizations stimulate conversation on social media. Proceedings of the National Academy of Sciences, 113(42), 11823-11828.
+* De Saussure, F. (1959). [Course in general linguistics](https://monoskop.org/images/0/0b/Saussure_Ferdinand_de_Course_in_General_Linguistics_1959.pdf). Columbia University Press. Pages 1-37. 
 
 ### Diffusion
 * A. Christakis and J. H. Fowler (2007) “The Spread of Obesity in a Large Network” New England Journal of Medicine 357:370-379.
@@ -187,44 +199,29 @@ Boutyline, Andrei, and Stephen Vaisey. “Belief network analysis: A relational 
 * Han, Xiaoyi, et al. “Quantifying Covid-19 Importation Risk in a Dynamic Network of Domestic Cities and International Countries.” Proceedings of the National Academy of Sciences, vol. 118, no. 31, 2021, doi:10.1073/pnas.2100201118. 
 * Musciotto, Federico, et al. “High-Frequency Trading and Networked Markets.” Proceedings of the National Academy of Sciences, vol. 118, no. 26, 2021, doi:10.1073/pnas.2015573118. 
 * Tang, Qian-Yuan, and Kunihiko Kaneko. “Dynamics-Evolution Correspondence in Protein Structures.” Physical Review Letters, vol. 127, no. 9, 26 Aug. 2021, doi.org/10.1103/PhysRevLett.127.098103. 
-* Padgett, John F., and Paul D. McLean. “Organizational Invention and Elite Transformation: The Birth of Partnership Systems in Renaissance Florence.” American Journal of Sociology, vol. 111, no. 5, 2006, pp. 1463–1568., doi:10.1086/498470. 
-* Padgett, John F., and Christopher K. Ansell. “Robust Action and the Rise of the Medici, 1400-1434.” American Journal of Sociology, vol. 98, no. 6, 1993, pp. 1259–1319., doi:10.1086/230190. 
-* Padgett, John Frederick, and Walter W. Powell. The Emergence of Organizations and Markets. Princeton University Press, 2012. 
-* J. Yang and J. Leskovec. Defining and Evaluating Network Communities based on Ground-truth. ICDM, 2012.
-* Leskovec, Jure, and Rok Sosič. “SNAP: A General-Purpose Network Analysis and Graph-Mining Library.” ACM Transactions on Intelligent Systems and Technology, vol. 8, no. 1, 2016, pp. 1–20., doi:10.1145/2898361.
-
-
-Van Der Gaag, M., & Snijders, T. A. B.  The resource generator: Social capital quantification with concrete items. Social Networks, 27(1), 2005, 1–29. https://doi.org/10.1016/j.socnet.2004.10.001 
-  Padgett, John Frederick, and Walter W. Powell. The Emergence of Organizations and Markets. Princeton University Press, 2012.John Padgett
-  Milgram, Stanley. “The Small-World Problem.” Psychology Today, 1967. https://doi.org/10.1037/e400002009-005. 
-  Backstrom, Lars, Paolo Boldi, Marco Rosa, Johan Ugander, and Sebastiano Vigna. "Four Degrees of Separation." Proceedings of the 3rd Annual ACM Web Science Conference on - WebSci '12, 2012. 
-  Park, Patrick S., et al. “The Strength of Long-Range Ties in Population-Scale Social Networks.” Science, vol. 362, no. 6421, 2018, pp. 1410–1413., doi:10.1126/science.aau9735. 
-  Davis, Allison, et al. Deep South: A Social Anthropological Study of Caste and Class. University of Chicago Press, 1941. 
-  Hanneman, Robert A. “12. Network Positions and Social Roles: The Idea of Equivalence.” Introduction to Social Network Methods, faculty.ucr.edu/~hanneman/nettext/C12_Equivalence.html#structural. 
-  Murphy, Phil. “Bipartite/Two-Mode Networks in Statnet.” RPubs, rpubs.com/pjmurphy/542335. 
-  Nooteboom, Bart. "Simmel's Treatise on the Triad (1908)." Journal of Institutional Economics 2.3, 2006: 365–383. https://doi.org/10.1017/s1744137406000452 
+* Van Der Gaag, M., & Snijders, T. A. B.  The resource generator: Social capital quantification with concrete items. Social Networks, 27(1), 2005, 1–29. https://doi.org/10.1016/j.socnet.2004.10.001 
+* Milgram, Stanley. “The Small-World Problem.” Psychology Today, 1967. https://doi.org/10.1037/e400002009-005. 
+* Backstrom, Lars, Paolo Boldi, Marco Rosa, Johan Ugander, and Sebastiano Vigna. "Four Degrees of Separation." Proceedings of the 3rd Annual ACM Web Science Conference on - WebSci '12, 2012. 
+* Park, Patrick S., et al. “The Strength of Long-Range Ties in Population-Scale Social Networks.” Science, vol. 362, no. 6421, 2018, pp. 1410–1413., doi:10.1126/science.aau9735. 
+* Davis, Allison, et al. Deep South: A Social Anthropological Study of Caste and Class. University of Chicago Press, 1941. 
+* Hanneman, Robert A. “12. Network Positions and Social Roles: The Idea of Equivalence.” Introduction to Social Network Methods, faculty.ucr.edu/~hanneman/nettext/C12_Equivalence.html#structural. 
 * Holland PW, Leinhardt S. "Transitivity in Structural Models of Small Groups." Comparative Group Studies, 1971;2(2):107-124. doi:10.1177/104649647100200201 
 * Watts, Duncan J., and Steven H. Strogatz. “Collective Dynamics of ‘Small-World’ Networks.” Nature, vol. 393, no. 6684, 1998, pp. 440–442., doi:10.1038/30918. 
-* Tsvetovat , Maksim. “Chapter 4.” Social Network Analysis for Startups, edited by Alexander Kouznetsov, O’Reilly Media, 2011. 
-* "Transitivity of a Graph." Igraph R Manual Pages. Web. 09 July 2021. Access from https://igraph.org/r/doc/transitivity.html 
 * Estrada, Ernesto. “When Local and Global Clustering of Networks Diverge.” Linear Algebra and Its Applications, vol. 488, 2016, pp. 249–263., doi:10.1016/j.laa.2015.09.048. 
 * Granovetter, Mark S. “The Strength of Weak Ties.” American Journal of Sociology, vol. 78, no. 6, 1973, pp. 1360–1380., doi:10.1086/225469. 
-* Ward, Michael D., et al. “Network Analysis and Political Science.” Annual Review of Political Science, vol. 14, no. 1, 2011, pp. 245–264., doi:10.1146/annurev.polisci.12.040907.115949. 
-  Barabasi, Albert-Laszlo. “Section 4.” Network Science: The Scale-Free Property, 2014. accessed from https://barabasi.com/f/623.pdf 
-  Strogatz S. H., Exploring complex networks, Nature, 2001, 410 268 - 276
-  Claudio Rocchini, Wikimedia, 2012 https://commons.wikimedia.org/wiki/File:Centrality.svg
-  Yang, Zhao, et al. “A Comparative Analysis of Community Detection Algorithms on Artificial Networks.” Scientific Reports, vol. 6, no. 1, 2016, doi:10.1038/srep30750. 
-  Newman M E J. Fast algorithm for detecting community structure in networks[J]. Physical review E. 2004, 69 (6): 066133
-  Waugh, Andrew, et al. “Party Polarization in Congress: A Network Science Approach.” ArXiv: Physics and Society, 25 July 2011. https://arxiv.org/abs/0907.3509 
-  Clouset, Aaron, Newman, M.E.J., Moore, Cristopher, “Finding community structure in very large networks.” ArXiv: Physics and Societ, 30 Aug 2004. https://arxiv.org/abs/cond-mat/0408187 
-  Blondel, V.D., Guillaume, J.-L., Lambiotte, R., Lefebvre, E.,“Fast Unfolding of Communities in Large Networks.” ArXiv: J Stat Mech P10008, 2008
-  Fortunato, Santo, and Claudio Castellano. “Community Structure in Graphs.” Encyclopedia of Complexity and Systems Science, 2009, pp. 1141–1163., doi:10.1007/978-0-387-30440-3_76. 
-  BPons, Pascal, and Matthieu Latapy. “Computing Communities in Large Networks Using Random Walks.” Journal of Graph Algorithms and Applications, vol. 10, no. 2, 2006, pp. 191–218., doi:10.7155/jgaa.00124.alabala
-   D. Edler, A. Eriksson and M. Rosvall, The MapEquation software package, available online at http://www.mapequation.org.Balabala
-  Xiaojin Zhu, Zoubin Ghahramani. “Learning from Labeled and Unlabeled Data with Label Propagation.” CMU CALD tech report CMU-CALD-02-107, 2002
-  Cordasco, Gennaro, and Luisa Gargano. “Community Detection via Semi-Synchronous Label Propagation Algorithms.” 2010 IEEE International Workshop on: Business Applications of Social Network Analysis (BASNA), 2010, doi:10.1109/basna.2010.5730298.
-  Bitten, Harry. “Detecting Communities in a Language Co-Occurrence Network.” Medium, Towards Data Science, 4 July 2019, towardsdatascience.com/detecting-communities-in-a-language-co-occurrence-network-f6d9dfc70bab.
-  Gergely Palla, Imre Derényi, Illés Farkas1, and Tamás Vicsek, Uncovering the overlapping community structure of complex networks in nature and society, Nature 435, 814-818, 2005, doi:10.1038/nature03607
+* Barabasi, Albert-Laszlo. “Section 4.” Network Science: The Scale-Free Property, 2014. accessed from https://barabasi.com/f/623.pdf 
+* Strogatz S. H., Exploring complex networks, Nature, 2001, 410 268 - 276
+* Lee, Monica, & Martin, J. L. 2018. “Doorway to the Dharma of Duality.” Poetics, 68, 18-30.
+* Mohr, John W. 1998. “Measuring Meaning Structures.” Annual Review of Sociology 24: 345-370.
+* Latour, B. (1992). 10 ‘‘Where Are the Missing Masses? The Sociology of a Few Mundane Artifacts’’.
+* Goldberg, Amir. 2011. “Mapping shared understandings using relational class analysis: The case of the cultural omnivore reexamined.”American Journal of Sociology 5: 1397-1436.
+* Schultz, J., & Breiger, R. L. (2010). The strength of weak culture. Poetics, 38(6), 610-624.
+* Mische, Ann, and Philippa Pattison. 2000. “Composing a civic arena: Publics, projects, and social settings.” Poetics2-3: 163-194.
+* Lizardo, O. (2006). How cultural tastes shape personal networks. American sociological review, 71(5), 778-807.
+* De Vaan, M., Stark, D., & Vedres, B. (2015). Game changer: The topology of creativity. American Journal of Sociology, 120(4), 1144-1194.
+* Martin, J. L. (2000). What do animals do all day?: The division of labor, class bodies, and totemic thinking in the popular imagination. Poetics, 27(2-3), 195-231.
+* Erikson, E. (2013). Formalist and relationalist theory in social network analysis. Sociological Theory, 31(3), 219-242.
+* Bail, C. A. (2016). Combining natural language processing and network analysis to examine how advocacy organizations stimulate conversation on social media. Proceedings of the National Academy of Sciences, 113(42), 11823-11828.
 
 
 

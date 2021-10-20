@@ -23,7 +23,7 @@
 * Lazer, David. “Networks in Political Science: Back to the Future.” PS: Political Science & Politics, vol. 44, no. 01, 2011, pp. 61–68., doi:10.1017/s1049096510001873. 
 * Ward, Michael D., et al. “Network Analysis and Political Science.” Annual Review of Political Science, vol. 14, no. 1, 2011, pp. 245–264., doi:10.1146/annurev.polisci.12.040907.115949. 
 
-## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=Population) , Sampling, and Biases
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Population, Sampling, and Biases
 ### Snowball Sampling
 * Colement 1958 Snowball Sampling
 * Salganik, Matthew. and Douglas Heckathorn (2004). Sampling and estimation in hidden populations using respondent-driven sampling. Sociological Methodology 34, 193–239.
@@ -33,10 +33,21 @@
 ### Alignment
 * Abbott, Andrew and E. Barman. 1997. “Sequence Comparison via Alignment and Gibbs Sampling.” Sociological Methodology 27:47-87.
 
-## Boundary, Imputation and Missing Data
+### Boundary, Imputation and Missing Data
 * Laumann, Edward, et al. “The Boundary Specification Problem in Network Analysis.” Applied Network Analysis: A Methodological Introduction, vol. 61, 1983. 
 * [Missing Network Data A Comparison of Different Imputation Methods](https://ieeexplore.ieee.org/document/8508716)
 * Gueorgi Kossinets (2006) [Effects of missing data in social networks](https://doi.org/10.1016/j.socnet.2005.07.002), Social Networks
+
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Linguistics, beliefs, and Meanings
+* Hoffman, M. A., Cointet, J. P., Brandt, P., Key, N., & Bearman, P. (2018). The (Protestant) Bible, the (printed) sermon, and the word (s): The semantic structure of the Conformist and Dissenting Bible, 1660–1780. Poetics, 68, 89-103.
+* Rule, A., Cointet, J. P., & Bearman, P. S. (2015). Lexical shifts, substantive changes, and continuity in State of the Union discourse, 1790–2014. Proceedings of the National Academy of Sciences, 112(35), 10837-10844.
+* Boutyline, Andrei, and Stephen Vaisey. “Belief network analysis: A relational approach to understanding the structure of attitudes.”American Journal of Sociology 5 (2017): 1371-1447.
+* Baldassarri, D., & Goldberg, A. (2014). Neither ideologues nor agnostics: Alternative voters’ belief system in an age of partisan politics. American Journal of Sociology, 120(1), 45-95.
+* Hoffman, M. A. (2019). The Materiality of Ideology: Cultural Consumption and Political Thought after the American Revolution. American Journal of Sociology, 125(1), 1-62.
+* DiMaggio, Paul, et al. 2018. “Culture out of attitudes: Relationality, population heterogeneity and attitudes toward science and religion in the US.”Poetics 68 (2018): 31-51.
+* Roth, C., & Cointet, J. P. (2010). Social and semantic coevolution in knowledge networks. Social Networks, 32(1), 16-29.
+* Martin, J. L. (2002).“Power, Authority, and the Constraint of Belief Systems.” American Journal of Sociology 107: 861-904.
+* De Saussure, F. (1959). [Course in general linguistics](https://monoskop.org/images/0/0b/Saussure_Ferdinand_de_Course_in_General_Linguistics_1959.pdf). Columbia University Press. Pages 1-37. 
 
 ## Structure
 ### Triads and Balance
@@ -129,16 +140,6 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 * Hillman, Henning. 2007. “Mediation in Multiple Networks: Elite Mobilization before the English Civil War” American Sociological Review.
 * Faust, Katherine. 1988. “Comparison of Methods for Positional Analysis: Structural and General Equivalences.” Social Networks 10: 313-341.
 
-### <span style="color:red">Linguistics, beliefs, and Meanings</span>.
-* Hoffman, M. A., Cointet, J. P., Brandt, P., Key, N., & Bearman, P. (2018). The (Protestant) Bible, the (printed) sermon, and the word (s): The semantic structure of the Conformist and Dissenting Bible, 1660–1780. Poetics, 68, 89-103.
-* Rule, A., Cointet, J. P., & Bearman, P. S. (2015). Lexical shifts, substantive changes, and continuity in State of the Union discourse, 1790–2014. Proceedings of the National Academy of Sciences, 112(35), 10837-10844.
-* Boutyline, Andrei, and Stephen Vaisey. “Belief network analysis: A relational approach to understanding the structure of attitudes.”American Journal of Sociology 5 (2017): 1371-1447.
-* Baldassarri, D., & Goldberg, A. (2014). Neither ideologues nor agnostics: Alternative voters’ belief system in an age of partisan politics. American Journal of Sociology, 120(1), 45-95.
-* Hoffman, M. A. (2019). The Materiality of Ideology: Cultural Consumption and Political Thought after the American Revolution. American Journal of Sociology, 125(1), 1-62.
-* DiMaggio, Paul, et al. 2018. “Culture out of attitudes: Relationality, population heterogeneity and attitudes toward science and religion in the US.”Poetics 68 (2018): 31-51.
-* Roth, C., & Cointet, J. P. (2010). Social and semantic coevolution in knowledge networks. Social Networks, 32(1), 16-29.
-* Martin, J. L. (2002).“Power, Authority, and the Constraint of Belief Systems.” American Journal of Sociology 107: 861-904.
-* De Saussure, F. (1959). [Course in general linguistics](https://monoskop.org/images/0/0b/Saussure_Ferdinand_de_Course_in_General_Linguistics_1959.pdf). Columbia University Press. Pages 1-37. 
 
 ### Diffusion
 * A. Christakis and J. H. Fowler (2007) “The Spread of Obesity in a Large Network” New England Journal of Medicine 357:370-379.

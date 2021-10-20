@@ -35,6 +35,9 @@
 * Laumann, Edward, et al. “The Boundary Specification Problem in Network Analysis.” Applied Network Analysis: A Methodological Introduction, vol. 61, 1983. 
 * [Missing Network Data A Comparison of Different Imputation Methods](https://ieeexplore.ieee.org/document/8508716)
 * Gueorgi Kossinets (2006) [Effects of missing data in social networks](https://doi.org/10.1016/j.socnet.2005.07.002), Social Networks
+* Variations in network boundary and type: A study of adolescent peer influences https://www.sciencedirect.com/science/article/pii/S0378873313000154
+* Covariate-defined latent space random effects model https://www.sciencedirect.com/science/article/pii/S0378873313000269
+* How many names are enough? Identifying network effects with the least set of listed contacts https://www.sciencedirect.com/science/article/pii/S0378873313000257
 
 ### Survey Data
 * Burt, Ronald S. “Network Items and the General Social Survey.” Social Networks, vol. 6, no. 4, 1984, pp. 293–339., doi:10.1016/0378-8733(84)90007-8. 
@@ -323,3 +326,4 @@ Guimera, Roger, et al. "Team assembly mechanisms determine collaboration network
 ## To Add
 * Organization Science articles
 * System Dynamics & ABM
+* John Padgett's syllabus

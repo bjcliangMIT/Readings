@@ -23,7 +23,7 @@
 * Lazer, David. “Networks in Political Science: Back to the Future.” PS: Political Science & Politics, vol. 44, no. 01, 2011, pp. 61–68., doi:10.1017/s1049096510001873. 
 * Ward, Michael D., et al. “Network Analysis and Political Science.” Annual Review of Political Science, vol. 14, no. 1, 2011, pp. 245–264., doi:10.1146/annurev.polisci.12.040907.115949. 
 
-## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=Population, Sampling, and Biases) 
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=Population) , Sampling, and Biases
 ### Snowball Sampling
 * Colement 1958 Snowball Sampling
 * Salganik, Matthew. and Douglas Heckathorn (2004). Sampling and estimation in hidden populations using respondent-driven sampling. Sociological Methodology 34, 193–239.

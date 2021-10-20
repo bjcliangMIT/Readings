@@ -86,6 +86,7 @@ Embedding, hierarchy, cohesion
 * Freeman, L. C. 1977. “A Set of Measures of Centrality Based on Betweenness.” Sociometry 40:35-41.
 * Albert-László Barabási and Réka Albert. “Emergence of scaling in random networks.”Science, 286(5439), 509-512.
 * Cook, K. S., Emerson, R. M., Gillmore, M. R., & Yamagishi, T. (1983). The distribution of power in exchange networks: Theory and experimental results. American journal of sociology, 89(2), 275-305
+* Page, L., Brin, S., Motwani, R., & Winograd, T. (1999). The PageRank Citation Ranking: Bringing Order to the Web. Stanford InfoLab. http://ilpubs.stanford.edu:8090/422/. 
 
 ## Connectivity and the Small World Problem
 ### Small World
@@ -184,10 +185,21 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 * Bitten, Harry. “Detecting Communities in a Language Co-Occurrence Network.” Medium, Towards Data Science, 4 July 2019, towardsdatascience.com/detecting-communities-in-a-language-co-occurrence-network-f6d9dfc70bab.
 * Gergely Palla, Imre Derényi, Illés Farkas1, and Tamás Vicsek, Uncovering the overlapping community structure of complex networks in nature and society, Nature 435, 814-818, 2005, doi:10.1038/nature03607
 * Estrada, Ernesto. “When Local and Global Clustering of Networks Diverge.” Linear Algebra and Its Applications, vol. 488, 2016, pp. 249–263., doi:10.1016/j.laa.2015.09.048. 
+* Newman, M. E. J. (2006). Modularity and community structure in networks. Proceedings of the National Academy of Sciences of the United States of America, 103(23), 8577–8582. https://doi.org/10.1073/pnas.0601602103
+* Nicosia, V., Mangioni, G., Carchiolo, V., & Malgeri, M. (2009). Extending the definition of modularity to directed graphs with overlapping communities. Journal of Statistical Mechanics: Theory and Experiment, 2009(03). https://doi.org/10.1088/1742-5468/2009/03/p03024 
 
+## Features and Psychology about Social Media
+* Scanfeld, D., Scanfeld, V., & Larson, E. L. (2010). Dissemination of health information through social networks: Twitter and antibiotics. American Journal of Infection Control, 38(3), 182–188. https://doi.org/10.1016/j.ajic.2009.11.004 
+* Shi, Z., Rui, H., & Whinston, A. B. (2014). Content Sharing in a Social Broadcasting Environment: Evidence from Twitter. MIS Quarterly, 38, 123–142. https://doi.org/10.2139/ssrn.2341243 
+* Tucker, J., Guess, A., Barbera, P., Vaccari, C., Siegel, A., Sanovich, S., … Nyhan, B. (2018). Social Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature. https://doi.org/10.2139/ssrn.3144139 
+* Ugander, J., Karrer, B., Backstrom, L., & Marlow, C. (2011). The Anatomy of the Facebook Social Graph. Social and Information Networks (Cs.SI). arXiv:1111.4503. 
+* Verduyn, P., Ybarra, O., Résibois, M., Jonides, J., & Kross, E. (2017). Do Social Network Sites Enhance or Undermine Subjective Well-Being? A Critical Review. Social Issues and Policy Review, 11(1), 274–302. https://doi.org/10.1111/sipr.12033 
+* Myers, S. A., Sharma, A., Gupta, P., & Lin, J. (2014). Information network or social network? Proceedings of the 23rd International Conference on World Wide Web - WWW '14 Companion. https://doi.org/10.1145/2567948.2576939 
+* Hong, S., & Kim, S. H. (2016). Political polarization on twitter: Implications for the use of social media in digital governments. Government Information Quarterly, 33(4), 777–782. https://doi.org/10.1016/j.giq.2016.04.007 
 
 ## With Other Computational Methods
 ### Graph Embedding
+* Perozzi, B., Al-Rfou, R., & Skiena, S. (2014). DeepWalk. Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining - KDD '14. https://doi.org/10.1145/2623330.2623732 
 * http://erichorvitz.com/Biases_of_Attention_in_Scientific_Discovery_JBioinformatics_2020.pdf
 * [Accelerating Innovation Through Analogy Mining](https://arxiv.org/abs/1706.05585)
 * Aniket Kittur, et al. (2019) [Scaling up analogical innovation with crowds and AI](https://www.pnas.org/content/116/6/187), Proceedings of the National Academy of Sciences Feb 2019, 116 (6) 1870-1877; DOI: 10.1073/pnas.1807185116 
@@ -197,8 +209,79 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 *  Shi, Feng, et al. “Weaving the Fabric of Science: Dynamic Network Models of Science's Unfolding Structure.” Social Networks, vol. 43, 2015, pp. 73–85., doi:10.1016/j.socnet.2015.02.006. 
 *  Feng, Shi, and James Evans. “Science and Technology Advance through Surprise.” ArXiv: Digital Libraries (Cs.DL), arXiv:1910.09370. 
 
-### System Dynamics & Agent-Based Modeling
+### System Dynamics & Agent-Based Modeling (not cleaned yet)
+#### Strategic Interactions
+* Andreoni, James, and John H. Miller. "Auctions with artificial adaptive agents." Games and economic behavior 10.1 (1995): 39-64.
+* Arifovic & Duffy 2018, Heterogeneous Agent Modeling: Experimental Evidence; Chapter 9 in the Handbook of Computational Economics"
+* Axelrod, Robert. "More effective choice in the prisoner's dilemma." Journal of Conflict Resolution 24.3 (1980): 379-403.
+* Bednar, Jenna, and Scott Page. "Can game (s) theory explain culture? The emergence of cultural behavior within multiple games." Rationality and Society 19.1 (2007): 65-97
+* Camerer 2003, Learning, Chapter 6 in Behavioral Game Theory, Princeton University Presse, Princeton, NJ
+* Camerer 2003, What do we know, and where do we go? Chapter 9 in Behavioral Game Theory, Princeton University Presse, Princeton, NJ
+* Erev, Ido, and Alvin E. Roth. "Predicting how people play games: Reinforcement learning in experimental games with unique, mixed strategy equilibria." American economic review (1998): 848-881.
+* Fowler, James H., and Nicholas A. Christakis. "Cooperative behavior cascades in human social networks." Proceedings of the National Academy of Sciences 107.12 (2010): 5334-5338.
+* Mosleh, Mohsen, and Babak Heydari. "Fair topologies: community structures and network hubs drive emergence of fairness norms." Scientific reports 7.1 (2017): 1-9.
+* Panico, Claudio, and Carmelo Cennamo. "User preferences and strategic interactions in platform ecosystems." Strategic Management Journal (2020).
+* Rahmandad, Hazhir, and Soheil Sibdari. ""Joint pricing and openness decisions in software markets with reinforcing loops."" System Dynamics Review 28.3 (2012): 209-229."
 
+#### Organizational Learning and Sampling
+* Clement, Julien, and Phanish Puranam. ""Searching for structure: Formal organization design as a guide to network evolution."" Management Science 64.8 (2018): 3879-3895."
+* Denrell, Jerker, and Chengwei Liu. "Top performers are not the most impressive when extreme performance indicates unreliability." Proceedings of the National Academy of Sciences 109.24 (2012): 9331-9336
+* Denrell, Jerker, and James G. March. "Adaptation as information restriction: The hot stove effect." Organization Science 12.5 (2001): 523-538.
+* Gavetti, Giovanni, and Daniel Levinthal. "Looking forward and looking backward: Cognitive and experiential search." Administrative science quarterly 45.1 (2000): 113-137.
+* Lant, Theresa K., and Stephen J. Mezias. "An organizational learning model of convergence and reorientation." Organization science 3.1 (1992): 47-71.
+* Le Mens, G., Kovács, B., Avrahami, J., & Kareev, Y. (2018). How endogenous crowd formation undermines the wisdom of the crowd in online ratings. Psychological science, 29(9), 1475-1490.
+* Levinthal, D. A. (1991). Random walks and organizational mortality. Administrative Science Quarterly, 397-420.
+* Levinthal, D. A. (1997). Adaptation on rugged landscapes. Management science, 43(7), 934-950.
+* March, James G. "Exploration and exploitation in organizational learning." Organization science 2.1 (1991): 71-87.
+* Mason, W., & Watts, D. J. (2012). Collaborative learning in networks. Proceedings of the National Academy of Sciences, 109(3), 764-769.
+* Rahmandad, H. (2008). Effect of delays on complexity of organizational learning. Management Science, 54(7), 1297-1312.
+* Rahmandad, Hazhir. "Interdependence, complementarity, and ruggedness of performance landscapes." Strategy Science 4.3 (2019): 234-249.
+* Sastry, M.A.: Problems and paradoxes in a model of punctuated organizational change. Adm. Sci. Q. 42, 237–275 (1997)
+
+#### Intra-Organizational System Dynamics 
+·   Black, L.J., Carlile, P.R., Repenning, N.P.: A dynamic theory of expertise and occupational boundaries in new technology implementation: building on Barley’s study of CT scanning. Adm. Sci. Q. 49, 572–607 (2004)
+·   Gary, M.S.: Implementation strategy and performance outcomes in related diversifcation. Strateg. Manag. J. 26, 643–664 (2005)
+·   Oliva, R., Sterman, J.D.: Cutting corners and working overtime: quality erosion in the service industry. Manag. Sci. 47, 894–914 (2001)
+·   Rahmandad, H., Repenning, N.P.: Capability erosion dynamics. Strateg. Manag. J. 37, 649–672 (2016)
+·   Rahmandad, H., Henderson, R., & Repenning, N. P. (2018). Making the numbers? “Short termism” and the puzzle of only occasional disaster. Management Science, 64(3), 1328-1347.
+·   Rahmandad H, Ton Z (2020) If Higher Pay Is Profitable, Why Is It So Rare? Modeling Competing Strategies in Mass Market Services. Organization Science 31(5):1053-1071.
+·   Repenning, N.P.: A simulation-based approach to understanding the dynamics of innovation implementation. Organ. Sci. 13, 109–127 (2002)
+·   Rudolph, Jenny W., and Nelson P. Repenning. "Disaster dynamics: Understanding the role of quantity in organizational collapse." Administrative Science Quarterly 47.1 (2002): 1-30.
+·   Rudolph, J.W., Morrison, J.B., Carroll, J.S.: The dynamics of action-oriented problem solving: linking interpretation and choice. Acad. Manag. J. 34, 733–756 (2009)
+·   Sterman, J.D., Wittenberg, J.: Path dependence, competition, and succession in the dynamics of scientific revolution. Organ. Sci. 10, 322–341 (1999)
+·   Sterman, J.D., Repenning, N.P., Kofman, F.: Unanticipated side effects of successful quality programs: exploring a paradox of organizational improvement. Manag. Sci. 43, 503–521 (1997)
+·   Sterman, J. D., Henderson, R., Beinhocker, E. D., & Newman, L. I. (2007). Getting big too fast: Strategic dynamics with increasing returns and bounded rationality. Management Science, 53(4), 683-696.
+
+#### Group Interactions
+·   Axelrod, Robert. "Evolving new strategies." Genetic Algorithms and Simulated Annealing 89 (1987): 32-41.
+·   Bicchieri, Cristina, John Duffy, and Gil Tolle. "Trust among strangers." Philosophy of Science 71.3 (2004): 286-319.
+·   Centola, Damon, Robb Willer, and Michael Macy. "The emperor’s dilemma: A computational model of self-enforcing norms." American Journal of Sociology 110.4 (2005): 1009-1040
+·   Enquist, Magnus, Kimmo Eriksson, and Stefano Ghirlanda. "Critical social learning: a solution to Rogers's paradox of nonadaptive culture." American Anthropologist 109.4 (2007): 727-734.
+·   Feldman, Marcus W., Kenichi Aoki, and Jochen Kumm. "Individual versus social learning: evolutionary analysis in a fluctuating environment." Anthropological Science 104.3 (1996): 209-231
+Guimera, Roger, et al. "Team assembly mechanisms determine collaboration network structure and team performance." Science 308.5722 (2005): 697-702.
+·   Johnson, Dominic DP, and James H. Fowler. "The evolution of overconfidence." Nature 477.7364 (2011): 317-320.
+·   Kollock, Peter. "" An eye for an eye leaves everyone blind": Cooperation and accounting systems." American Sociological Review (1993): 768-786.
+·   Macy & Skvoretz. 1998. “The Evolution of Trust and Cooperation Between Strangers: A Computational Model.” American Sociological Review. 63: 638-660
+·   Ohtsuki, H., Hauert, C., Lieberman, E., & Nowak, M. A. (2006). A simple rule for the evolution of cooperation on graphs and social networks. Nature, 441(7092), 502. 
+·   Riolo, Cohen & Axelrod, 2001. “Evolution of Cooperation without Reciprocity.” Nature. 22:441-3
+·   Toyokawa, Wataru, Andrew Whalen, and Kevin N. Laland. "Social learning strategies regulate the wisdom and madness of interactive crowds." Nature Human Behaviour 3.2 (2019): 183-193.
+
+#### Social Influence
+·   Barabási, Albert-László, and Réka Albert. "Emergence of scaling in random networks." science 286.5439 (1999): 509-512.C105:C119
+·   Bicchieri, Cristina, and Yoshitaka Fukui. "The great illusion: Ignorance, informational cascades, and the persistence of unpopular norms." Experience, reality, and scientific explanation. Springer, Dordrecht, 1999. 89-121.
+·   Centola, Damon, and Michael Macy. "Complex contagions and the weakness of long ties." American journal of Sociology113.3 (2007): 702-734.
+·   *Golub, Benjamin, and Matthew O. Jackson. "Naive learning in social networks and the wisdom of crowds." American Economic Journal: Microeconomics 2.1 (2010): 112-49.
+·   Granovetter, Mark. "Threshold models of collective behavior." American journal of sociology 83.6 (1978): 1420-1443.
+·   Hegselmann, Rainer, and Ulrich Krause. "Opinion dynamics and bounded confidence models, analysis, and simulation." Journal of artificial societies and social simulation 5.3 (2002).
+·   Hong, Lu, and Scott E. Page. "Groups of diverse problem solvers can outperform groups of high-ability problem solvers." Proceedings of the National Academy of Sciences 101.46 (2004): 16385-16389
+·   *Lamberson, P. J. "Diffusion in networks." Bramoullé, Yann, Andrea Galeotti, and Brian Rogers, editors (2016).
+·   Miller, John H. and Scott Page. 2004. “The Standing Ovation Problem.” Complexity 9:8-16.
+·   Rahmandad, Hazhir, and John Sterman. "Heterogeneity and network structure in the dynamics of diffusion: Comparing agent-based and differential equation models." Management Science 54.5 (2008): 998-1014.
+·   Sassine & Rahmandad (2021) How does network structure impact socially reinforced diffusion? Working Paper.
+·   *Shoham, David A., et al. "An actor-based model of social network influence on adolescent body size, screen time, and playing sports." PloS one 7.6 (2012): e39795.
+·   *Snijders, Tom AB, Gerhard G. Van de Bunt, and Christian EG Steglich. "Introduction to stochastic actor-based models for network dynamics." Social networks 32.1 (2010): 44-60.
+·   Strang, David, and Michael W. Macy. "In search of excellence: Fads, success stories, and adaptive emulation." American journal of sociology 107.1 (2001): 147-182.
+·   Watts, Duncan J., and Steven H. Strogatz. "Collective dynamics of ‘small-world’networks." nature 393.6684 (1998): 440.![image](https://user-images.githubusercontent.com/92835952/138161256-b742ab19-6a2a-40b2-be02-7a2b3e095abc.png)
 
 
 ### Big Data Applications
@@ -235,6 +318,7 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 * Lizardo, O. (2006). How cultural tastes shape personal networks. American sociological review, 71(5), 778-807.
 * De Vaan, M., Stark, D., & Vedres, B. (2015). Game changer: The topology of creativity. American Journal of Sociology, 120(4), 1144-1194.
 * Martin, J. L. (2000). What do animals do all day?: The division of labor, class bodies, and totemic thinking in the popular imagination. Poetics, 27(2-3), 195-231.
+
 
 ## To Add
 * Organization Science articles

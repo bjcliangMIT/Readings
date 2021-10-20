@@ -41,7 +41,7 @@
 * Fischer, Claude S. 2009. “Comment: The 2004 GSS Finding of Shrunken Social Networks: An Artifact? ” American Sociological Review 74:657-669.
 * McPherson, Miller, Lynn Smith-Lovin, and Matthew E. Brashears. 2009. “Reply: Models and Marginals: Using Survey Evidence to Study Social Networks.” American Sociological Review 74:670-681.
 
-### AA 
+### Andy
 * Abbott, Andrew and E. Barman. 1997. “Sequence Comparison via Alignment and Gibbs Sampling.” Sociological Methodology 27:47-87.
 
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Linguistics, beliefs, and Meanings
@@ -197,7 +197,7 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 *  Shi, Feng, et al. “Weaving the Fabric of Science: Dynamic Network Models of Science's Unfolding Structure.” Social Networks, vol. 43, 2015, pp. 73–85., doi:10.1016/j.socnet.2015.02.006. 
 *  Feng, Shi, and James Evans. “Science and Technology Advance through Surprise.” ArXiv: Digital Libraries (Cs.DL), arXiv:1910.09370. 
 
-### Agent-Based Modeling
+### System Dynamics & Agent-Based Modeling
 
 
 

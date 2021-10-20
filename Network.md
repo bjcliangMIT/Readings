@@ -20,6 +20,7 @@
 ## Overviews
 * Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). Network analysis in the social sciences. science, 323(5916), 892-895.
 * Hinde, R.A. (1976.) Interactions, Relationships and Social Structure. Man 11, 1: 1-17.
+* Erikson, E. (2013). Formalist and relationalist theory in social network analysis. Sociological Theory, 31(3), 219-242.
 * Lazer, David. “Networks in Political Science: Back to the Future.” PS: Political Science & Politics, vol. 44, no. 01, 2011, pp. 61–68., doi:10.1017/s1049096510001873. 
 * Ward, Michael D., et al. “Network Analysis and Political Science.” Annual Review of Political Science, vol. 14, no. 1, 2011, pp. 245–264., doi:10.1146/annurev.polisci.12.040907.115949. 
 
@@ -45,6 +46,10 @@
 * Baldassarri, D., & Goldberg, A. (2014). Neither ideologues nor agnostics: Alternative voters’ belief system in an age of partisan politics. American Journal of Sociology, 120(1), 45-95.
 * Hoffman, M. A. (2019). The Materiality of Ideology: Cultural Consumption and Political Thought after the American Revolution. American Journal of Sociology, 125(1), 1-62.
 * DiMaggio, Paul, et al. 2018. “Culture out of attitudes: Relationality, population heterogeneity and attitudes toward science and religion in the US.”Poetics 68 (2018): 31-51.
+* * Bail, C. A. (2016). Combining natural language processing and network analysis to examine how advocacy organizations stimulate conversation on social media. Proceedings of the National Academy of Sciences, 113(42), 11823-11828.
+* Mohr, John W. 1998. “Measuring Meaning Structures.” Annual Review of Sociology 24: 345-370.
+* Latour, B. (1992). 10 ‘‘Where Are the Missing Masses? The Sociology of a Few Mundane Artifacts’’.
+* Goldberg, Amir. 2011. “Mapping shared understandings using relational class analysis: The case of the cultural omnivore reexamined.”American Journal of Sociology 5: 1397-1436.
 * Roth, C., & Cointet, J. P. (2010). Social and semantic coevolution in knowledge networks. Social Networks, 32(1), 16-29.
 * Martin, J. L. (2002).“Power, Authority, and the Constraint of Belief Systems.” American Journal of Sociology 107: 861-904.
 * De Saussure, F. (1959). [Course in general linguistics](https://monoskop.org/images/0/0b/Saussure_Ferdinand_de_Course_in_General_Linguistics_1959.pdf). Columbia University Press. Pages 1-37. 
@@ -213,26 +218,8 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 * Barabasi, Albert-Laszlo. “Section 4.” Network Science: The Scale-Free Property, 2014. accessed from https://barabasi.com/f/623.pdf 
 * Strogatz S. H., Exploring complex networks, Nature, 2001, 410 268 - 276
 * Lee, Monica, & Martin, J. L. 2018. “Doorway to the Dharma of Duality.” Poetics, 68, 18-30.
-* Mohr, John W. 1998. “Measuring Meaning Structures.” Annual Review of Sociology 24: 345-370.
-* Latour, B. (1992). 10 ‘‘Where Are the Missing Masses? The Sociology of a Few Mundane Artifacts’’.
-* Goldberg, Amir. 2011. “Mapping shared understandings using relational class analysis: The case of the cultural omnivore reexamined.”American Journal of Sociology 5: 1397-1436.
 * Schultz, J., & Breiger, R. L. (2010). The strength of weak culture. Poetics, 38(6), 610-624.
 * Mische, Ann, and Philippa Pattison. 2000. “Composing a civic arena: Publics, projects, and social settings.” Poetics2-3: 163-194.
 * Lizardo, O. (2006). How cultural tastes shape personal networks. American sociological review, 71(5), 778-807.
 * De Vaan, M., Stark, D., & Vedres, B. (2015). Game changer: The topology of creativity. American Journal of Sociology, 120(4), 1144-1194.
 * Martin, J. L. (2000). What do animals do all day?: The division of labor, class bodies, and totemic thinking in the popular imagination. Poetics, 27(2-3), 195-231.
-* Erikson, E. (2013). Formalist and relationalist theory in social network analysis. Sociological Theory, 31(3), 219-242.
-* Bail, C. A. (2016). Combining natural language processing and network analysis to examine how advocacy organizations stimulate conversation on social media. Proceedings of the National Academy of Sciences, 113(42), 11823-11828.
-
-
-
-
-
-
-
-
-
-
-
-
-

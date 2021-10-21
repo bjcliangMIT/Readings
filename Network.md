@@ -278,14 +278,13 @@ Guimera, Roger, et al. "Team assembly mechanisms determine collaboration network
 ·   Hegselmann, Rainer, and Ulrich Krause. "Opinion dynamics and bounded confidence models, analysis, and simulation." Journal of artificial societies and social simulation 5.3 (2002).
 ·   Hong, Lu, and Scott E. Page. "Groups of diverse problem solvers can outperform groups of high-ability problem solvers." Proceedings of the National Academy of Sciences 101.46 (2004): 16385-16389
 ·   *Lamberson, P. J. "Diffusion in networks." Bramoullé, Yann, Andrea Galeotti, and Brian Rogers, editors (2016).
-·   Miller, John H. and Scott Page. 2004. “The Standing Ovation Problem.” Complexity 9:8-16.
-·   Rahmandad, Hazhir, and John Sterman. "Heterogeneity and network structure in the dynamics of diffusion: Comparing agent-based and differential equation models." Management Science 54.5 (2008): 998-1014.
-·   Sassine & Rahmandad (2021) How does network structure impact socially reinforced diffusion? Working Paper.
-·   *Shoham, David A., et al. "An actor-based model of social network influence on adolescent body size, screen time, and playing sports." PloS one 7.6 (2012): e39795.
-·   *Snijders, Tom AB, Gerhard G. Van de Bunt, and Christian EG Steglich. "Introduction to stochastic actor-based models for network dynamics." Social networks 32.1 (2010): 44-60.
-·   Strang, David, and Michael W. Macy. "In search of excellence: Fads, success stories, and adaptive emulation." American journal of sociology 107.1 (2001): 147-182.
-·   Watts, Duncan J., and Steven H. Strogatz. "Collective dynamics of ‘small-world’networks." nature 393.6684 (1998): 440.![image](https://user-images.githubusercontent.com/92835952/138161256-b742ab19-6a2a-40b2-be02-7a2b3e095abc.png)
-
+·   Miller, John H. and Scott Page. 2004. “The Standing Ovation Problem.” Complexity 9:8-16.
+* Rahmandad, Hazhir, and John Sterman. "Heterogeneity and network structure in the dynamics of diffusion: Comparing agent-based and differential equation models." Management Science 54.5 (2008): 998-1014.
+* Sassine & Rahmandad (2021) How does network structure impact socially reinforced diffusion? Working Paper.
+* Shoham, David A., et al. "An actor-based model of social network influence on adolescent body size, screen time, and playing sports." PloS one 7.6 (2012): e39795.
+* Snijders, Tom AB, Gerhard G. Van de Bunt, and Christian EG Steglich. "Introduction to stochastic actor-based models for network dynamics." Social networks 32.1 (2010): 44-60.
+* Strang, David, and Michael W. Macy. "In search of excellence: Fads, success stories, and adaptive emulation." American journal of sociology 107.1 (2001): 147-182.
+* Watts, Duncan J., and Steven H. Strogatz. "Collective dynamics of ‘small-world’networks." nature 393.6684 (1998): 440.
 
 ### Big Data Applications
 * Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, and Zhong Su. ArnetMiner: Extraction and Mining of Academic Social Networks. In Proceedings of the Fourteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD'2008). pp.990-998. 
@@ -325,5 +324,4 @@ Guimera, Roger, et al. "Team assembly mechanisms determine collaboration network
 
 ## To Add
 * Organization Science articles
-* System Dynamics & ABM
 * John Padgett's syllabus

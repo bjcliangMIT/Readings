@@ -153,6 +153,9 @@ Embedding, hierarchy, cohesion
 * DellaPosta, D., Shi, Y., & Macy, M. (2015). Why do liberals drink lattes? American Journal of Sociology, 120(5), 1473-1511.
 * Centola, Damon. 2010. “The Spread of Behavior in an Online Social Network Experiment” Science 2010: 1194-1197.
 * Murphy, Charles, et al. “Deep Learning of Contagion Dynamics on Complex Networks.” Nature Communications, vol. 12, no. 1, 2021, doi:10.1038/s41467-021-24732-2. 
+* Robert Huckfeldt and John Sprague. Networks in Context: The Social Flow of Political Information. The American Political Science Review, 81(4):1197–1216,1987
+* David W. Nickerson. Is Voting Contagious? Evidence from Two Field Experiments. American Political Science Review, 102(01):49–57, 2008
+* Ryan D Enos. Causal effect of intergroup contact on exclusionary attitudes. Proceedings of the National Academy of Sciences, 111(10):3699–3704, 2014
 
 ### Causal Inference
 * Yann Bramoullé, Habiba Djebbari, and Bernard Fortin (2020) [Peer Effects in Networks: A Survey](https://www.annualreviews.org/doi/10.1146/annurev-economics-020320-033926), Annual Review of Economics, vol. 12, no. 1, 2020, pp. 603–629.,

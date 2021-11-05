@@ -216,6 +216,8 @@ Rytina, Steve, and David L. Morgan 1982. ``The Arithmetic of Social Relations: T
 *  Feng, Shi, and James Evans. “Science and Technology Advance through Surprise.” ArXiv: Digital Libraries (Cs.DL), arXiv:1910.09370. 
 
 ### System Dynamics & Agent-Based Modeling (not cleaned yet)
+* Ohtsuki, H., Hauert, C., Lieberman, E. et al. A simple rule for the evolution of cooperation on graphs and social networks. Nature 441, 502–505 (2006). https://doi.org/10.1038/nature04605
+
 #### Strategic Interactions
 * Andreoni, James, and John H. Miller. "Auctions with artificial adaptive agents." Games and economic behavior 10.1 (1995): 39-64.
 * Arifovic & Duffy 2018, Heterogeneous Agent Modeling: Experimental Evidence; Chapter 9 in the Handbook of Computational Economics"

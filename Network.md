@@ -16,6 +16,7 @@
 ### Books
 * Song Yang, Franziska B Keller, Lu Zheng, Social Network Analysis: Methods and Examples
 * Social Network Analysis for Startups, edited by Alexander Kouznetsov, O’Reilly Media, 2011
+* [The Oxford handbook of the economics of networks](https://www-oxfordhandbooks-com.libproxy.mit.edu/view/10.1093/oxfordhb/9780199948277.001.0001/oxfordhb-9780199948277), edited by: Yann Bramoullé, Andrea Galeotti, and Brian W. Rogers
 
 ## Overviews
 * Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). Network analysis in the social sciences. science, 323(5916), 892-895.
